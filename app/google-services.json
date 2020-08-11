@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449922382380",
+    "firebase_url": "https://ambucycle-a2df1.firebaseio.com",
+    "project_id": "ambucycle-a2df1",
+    "storage_bucket": "ambucycle-a2df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449922382380:android:42aa70233e21da316baf89",
+        "android_client_info": {
+          "package_name": "com.akmist.ambucycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449922382380-ucsn7epmf399pml9ubkorbvvh3rntqh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akmist.ambucycle",
+            "certificate_hash": "f7fd049a9a5714b50db482d16c555186606db3a9"
+          }
+        },
+        {
+          "client_id": "449922382380-chds75s0vft6bjbrbg28ci7oq65ssg7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANBmLFtATKvCx0IZo6iYu_eScJrkQ-Ehs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449922382380-chds75s0vft6bjbrbg28ci7oq65ssg7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
