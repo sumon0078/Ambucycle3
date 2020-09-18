@@ -17,6 +17,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <service android:name=".onAppKilled" android:stopWithTask="false"/> 
         <activity android:name=".OperatorSettingsActivity"></activity>
         <activity android:name=".PassengerSettingsActivity" />
         <activity android:name=".PassengerMapActivity" />
@@ -30,7 +31,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
+            android:value="AIzaSyANBmLFtATKvCx0IZo6iYu_eScJrkQ-Ehs" />
 
         <activity
             android:name=".OperatorMapActivity"

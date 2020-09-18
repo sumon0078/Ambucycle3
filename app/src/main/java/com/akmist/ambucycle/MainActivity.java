@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
         mPassenger = (Button) findViewById(R.id.Passenger);
 
 
+        startService(new Intent(MainActivity.this, onAppKilled.class));
+
+
         mOperator.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

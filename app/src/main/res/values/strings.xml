@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Ambucycle</string>
     <string name="title_activity_operator_map">Map</string>
+    <string name="picked_passenger">picked passenger</string>
+    <string name="api_key">changeme</string>
 </resources>
